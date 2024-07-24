@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="styles.css" rel="stylesheet" />
+    <title>게시판</title>
+  </head>
+  <body>
+    <header>
+      <h1>자유게시판</h1>
+    </header>
+    <section id="board_form">
+      <h2>새 게시글 작성</h2>
+      <form>
+        <label for="post-title">제목:</label>
+        <input type="text" id="post-title" required />
+
+        <label for="post-content">내용:</label>
+        <textarea id="post-content" name="content" rows="4" required></textarea>
+
+        <button type="submit">게시</button>
+      </form>
+    </section>
+    <section id="board_list">
+      <h2>게시글 목록</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>번호</th>
+            <th>제목</th>
+            <th>작성자</th>
+            <th>날짜</th>
+            <th>삭제</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- 게시글 항목들이 여기 추가 예정 -->
+        </tbody>
+      </table>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
