@@ -11,7 +11,7 @@
 
 ## 시스템 구조
 
-![System Architecture (https://raw.githubusercontent.com/shCHO9801/HTML_Mini_Project/main/UML%20image/%EC%9B%B9%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0.png)
+![System Architecture Diagram](https://raw.githubusercontent.com/shCHO9801/HTML_Mini_Project/main/UML%20image/%EC%9B%B9%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0.png)
 
 ## 주요 기능 및 워크플로우
 
