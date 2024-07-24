@@ -11,33 +11,28 @@
 
 ## 시스템 구조
 
-![System Architecture Diagram](URL-TO-YOUR-DIAGRAM)
+![System Architecture Diagram](UML image/웹 게시판 시스템 구조.png)
 
 ## 주요 기능 및 워크플로우
 
 ### 회원가입 및 로그인 워크플로우
 
-#### 회원가입 순서도
-![회원가입 순서도](URL-TO-YOUR-DIAGRAM)
+#### 회원가입, 로그인 순서도
+![회원가입 및 로그인 순서도](UML image/Workflow Diagrams1.png)
 
-#### 로그인 순서도
-![로그인 순서도](URL-TO-YOUR-DIAGRAM)
+
 
 ### 게시글 작성 및 삭제 워크플로우
+![게시글 작성 및 삭제 순서도](UML image/Workflow Diagrams2.png)
 
-#### 게시글 작성 순서도
-![게시글 작성 순서도](URL-TO-YOUR-DIAGRAM)
-
-#### 게시글 삭제 순서도
-![게시글 삭제 순서도](URL-TO-YOUR-DIAGRAM)
 
 ## UML 다이어그램
 
 ### Use Case Diagram
-![Use Case Diagram](URL-TO-YOUR-DIAGRAM)
+![Use Case Diagram](UML image/UseCaseDiagram.png)
 
 ### Class Diagram
-![Class Diagram](URL-TO-YOUR-DIAGRAM)
+![Class Diagram](UML image/class diagrams.png)
 
 ## 결과 및 결론
 
@@ -55,8 +50,3 @@
 - 데이터 시각화 도구 추가
 - 댓글 기능 추가
 
-## 추가적인 정보
-
-- **참고문헌**: 프로젝트와 관련된 참고문헌 및 자료
-- **프로젝트 팀원**: 프로젝트에 참여한 팀원들의 정보
-# HTML_Mini_Project
