@@ -18,21 +18,21 @@
 ### 회원가입 및 로그인 워크플로우
 
 #### 회원가입, 로그인 순서도
-![회원가입 및 로그인 순서도](UML image/Workflow Diagrams1.png)
+![회원가입 및 로그인 순서도](https://github.com/shCHO9801/HTML_Mini_Project/blob/main/UML%20image/Workflow%20Diagrams1.png?raw=true)
 
 
 
 ### 게시글 작성 및 삭제 워크플로우
-![게시글 작성 및 삭제 순서도](UML image/Workflow Diagrams2.png)
+![게시글 작성 및 삭제 순서도](https://github.com/shCHO9801/HTML_Mini_Project/blob/main/UML%20image/Workflow%20Diagrams2.png?raw=true)
 
 
 ## UML 다이어그램
 
 ### Use Case Diagram
-![Use Case Diagram](UML image/UseCaseDiagram.png)
+![Use Case Diagram](https://github.com/shCHO9801/HTML_Mini_Project/blob/main/UML%20image/UseCaseDiagram.png?raw=true)
 
 ### Class Diagram
-![Class Diagram](UML image/class diagrams.png)
+![Class Diagram](https://github.com/shCHO9801/HTML_Mini_Project/blob/main/UML%20image/class%20diagrams.png?raw=true)
 
 ## 결과 및 결론
 
